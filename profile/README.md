@@ -11,41 +11,6 @@
 </div>
 
 </div>
-
-<br/>
-
-## 🔥 Technologies
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-1E90FF?style=for-the-badge&logo=python&logoColor=white&labelColor=000)
-![JavaScript](https://img.shields.io/badge/JavaScript-8A2BE2?style=for-the-badge&logo=javascript&logoColor=white&labelColor=000)
-![TypeScript](https://img.shields.io/badge/TypeScript-FF1493?style=for-the-badge&logo=typescript&logoColor=white&labelColor=000)
-![Rust](https://img.shields.io/badge/Rust-FF8C00?style=for-the-badge&logo=rust&logoColor=white&labelColor=000)
-![Go](https://img.shields.io/badge/Go-1E90FF?style=for-the-badge&logo=go&logoColor=white&labelColor=000)
-
-![React](https://img.shields.io/badge/React-8A2BE2?style=for-the-badge&logo=react&logoColor=white&labelColor=000)
-![Next.js](https://img.shields.io/badge/Next.js-FF1493?style=for-the-badge&logo=nextdotjs&logoColor=white&labelColor=000)
-![Node.js](https://img.shields.io/badge/Node.js-FF8C00?style=for-the-badge&logo=node.js&logoColor=white&labelColor=000)
-![FastAPI](https://img.shields.io/badge/FastAPI-1E90FF?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=000)
-![GraphQL](https://img.shields.io/badge/GraphQL-8A2BE2?style=for-the-badge&logo=graphql&logoColor=white&labelColor=000)
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF1493?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=000)
-![PyTorch](https://img.shields.io/badge/PyTorch-FF8C00?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=000)
-![OpenCV](https://img.shields.io/badge/OpenCV-1E90FF?style=for-the-badge&logo=OpenCV&logoColor=white&labelColor=000)
-![Hugging Face](https://img.shields.io/badge/🤗_Hugging_Face-8A2BE2?style=for-the-badge&labelColor=000)
-
-![Solidity](https://img.shields.io/badge/Solidity-FF1493?style=for-the-badge&logo=solidity&logoColor=white&labelColor=000)
-![Ethereum](https://img.shields.io/badge/Ethereum-FF8C00?style=for-the-badge&logo=ethereum&logoColor=white&labelColor=000)
-![Web3.js](https://img.shields.io/badge/Web3.js-1E90FF?style=for-the-badge&logo=web3.js&logoColor=white&labelColor=000)
-
-![Docker](https://img.shields.io/badge/Docker-8A2BE2?style=for-the-badge&logo=docker&logoColor=white&labelColor=000)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-FF1493?style=for-the-badge&logo=kubernetes&logoColor=white&labelColor=000)
-![AWS](https://img.shields.io/badge/AWS-FF8C00?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=000)
-![GCP](https://img.shields.io/badge/GCP-1E90FF?style=for-the-badge&logo=google-cloud&logoColor=white&labelColor=000)
-
-</div>
-
 <br/>
 
 </div>
